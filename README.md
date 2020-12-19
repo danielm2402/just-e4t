@@ -4,14 +4,14 @@
 
 ## Domain Driven Architectures
 
-Plantilla boilerplate realizada con DDD
+Boilerplate template made with DDD
 
 One of the first and main ones was introduced by E. Evans in its [Domain Driven Design approach](http://dddsample.sourceforge.net/architecture.html).
 
-![DDD Architecture](/just-eat-hexagonal/doc/DDD_architecture.jpg)
+![DDD Architecture](./just-eat-hexagonal/doc/DDD_architecture.jpg)
 
-[Boilerplate] (https://github.com/jbuget/nodejs-clean-architecture-app)
-Basado en [Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/) (by. J. Palermo), [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) (by A. Cockburn) or [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) (by. R. Martin).
+![Boilerplate] (https://github.com/jbuget/nodejs-clean-architecture-app)
+Based on [Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/) (by. J. Palermo), [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/) (by A. Cockburn) or [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) (by. R. Martin).
 
  
 
@@ -51,5 +51,5 @@ app
 
 ### Flujo
 
-![Schema of flow of Control](/just-eat-hexagonal/doc/Hapijs_Clean_Architecture.svg)
+![Schema of flow of Control](./just-eat-hexagonal/doc/Hapijs_Clean_Architecture.svg)
 
